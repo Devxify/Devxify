@@ -10,7 +10,7 @@ module.exports = {
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
-  /*assetPrefix: `https://cdn.devxify.com`,*/
+  assetPrefix: `https://cdn.devxify.com`,
   plugins: [
     `gatsby-plugin-preact`,
     {
