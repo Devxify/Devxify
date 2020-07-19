@@ -36,7 +36,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sharp',
       options: {
-        quality: 100,
+        quality: 90,
         stripMetadata: true,
       },
     },
@@ -65,7 +65,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 2000,
-              quality: 100,
+              quality: 90,
             },
           },
         ],
