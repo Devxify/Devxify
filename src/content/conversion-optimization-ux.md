@@ -34,7 +34,7 @@ The placement and color also plays an important role in how effective of ineffec
 
 If you have followed me over past years then you would surely know I'm a sucker of web performance and I believe you don't want to frustrate your visitor by taking 10-12sec to load your page. Website's that load faster have proven to see [better conversion↗](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/). If you are able to make your webpage load under 3sec then kudos, you rocked it. 
 
-![Web Performance For Conversion](img/webperf-conversion.svg)
+![Web Performance For Conversion](https://devstorage.b-cdn.net/webperf-conversion.svg)
 <p style="text-align: center; font-size:1.25rem">Credit: Cloudflare</p>
 
 Though I have seen lots of websites suck at it but you shouldn't. If you wish to know in-depth ways to optimize your webpage then we have already wrote about it. One of the most easiest ways to make your webpage load faster is by optimizing images on your website and switching to a hosting provider with better infrastructure.
