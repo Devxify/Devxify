@@ -32,7 +32,15 @@ module.exports = {
         legacy: false,
       },
     },
-    'gatsby-plugin-advanced-sitemap',
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.devxify.com',
+        sitemap: 'https://www.devxify.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
     {
       resolve: 'gatsby-plugin-sharp',
       options: {

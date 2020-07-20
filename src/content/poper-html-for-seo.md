@@ -27,7 +27,7 @@ Now let us start with the steps with write the best SEO friendly HTML.
 
 What’s a man without a name and what’s a webpage without a title? Title tag is very important for a webpage, it is the tag which gives brief about the page content. One must always add title properly and refrain from using terms like homepage, blog, and others. Try to be descriptive using minimal words.
 
-```
+```html
 <!-- ❌ Poor description using title -->
 <title>Homepage</title><title>Blog</title>
             
@@ -45,13 +45,13 @@ These two might sound like small bits but they are very important. The rel canon
 
 But we only want the first to be indexed on Google, this is where we use rel=‘canonical’, it also helps us with reducing the chances of internal content duplicity.
 
-```
+```html
 <link rel="canonical" href="https://www.devxify.com">
 ```
 
 Similarly, rel=‘icon’ is also very important, it hold the destination of your favicon which is nothing but a small brand icon which in show in browser window. This help users remember your site even by the icon. Who does not want to build a brand after all?
 
-```
+```html
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 ```
 
@@ -61,7 +61,7 @@ I believe that meta tags are the most important tags when giving basic descripti
 
 Meta tags even make your site look the way you wish on web results and social media sites. Below are few essential meta tags one must have, if you are a bit lazy then you use any generator like [metatags.io↗](https://metatags.io/) and your job will be done.
 
-```
+```html
 <!-- Basic Meta Tags -->
 <meta name="title" content="Awesome Title Here"><meta name="description" content="Awesome Description Here"><!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://www.devxify.com"><meta property="og:logo" content="images/brand-logo.png"><meta property="og:type" content="website"><meta property="og:title" content="Awesome Title Here"><meta property="og:description" content="Awesome Description Here"><meta property="og:image" content="images/brand-social-image.png"><!-- Twitter Meta Tags -->
@@ -73,7 +73,7 @@ Meta tags even make your site look the way you wish on web results and social me
 
 [Schema Markup↗](https://neilpatel.com/blog/get-started-using-schema/) has a similar job compared to meta tags but it is in much descriptive way. You can go as deep as you wish like sharing details about product, pricing and much more. I will share a very basic example, but you are free to visit the official Schema documentation for in-depth study and implementation. Below is an example of schema of our homepage.
 
-```
+```html
 <script type='application/ld+json'>
     {
             "@context": "http://www.schema.org",
@@ -96,7 +96,7 @@ Meta tags even make your site look the way you wish on web results and social me
 
 I have seen plenty of website owners mess up here. Most of the time search engine bots interpret even non-semantic HTML but you do not need to pay extra tax to write proper HTML? So why not do it in the correct way? Here is an example of wrong and correct uses of heading tags.
 
-```
+```html
 <!-- ❌ Page should have single H1 tag -->
 <h1>Heading 1</h1><h2>Heading 2</h2><h2>Heading 2</h2><h1>Heading 1</h1><!-- ❌ Heading should be structured -->
 <!-- Like H3 cannot be placed under H2 -->
@@ -108,7 +108,7 @@ I have seen plenty of website owners mess up here. Most of the time search engin
 
 Not all people are physically privileged like us, some people use screen reader and won’t be able to see the images you add so to tell them about the image we need to add a small text to describe the image.
 
-```
+```html
 <!-- ❌ Alt attribute not used -->
 <img src="/funny-cat.png">
                
@@ -178,7 +178,7 @@ Disallow: /demo.html
 
 This is a very common issue I found among bloggers, I found that they tend to use terms like here, go, buy, and add links to them. The problem is they are meaningless. Always add links to text which have a meaning. See below to understand more.
 
-```
+```html
 <!-- ❌ Link with non descriptive text -->
 <a href="/funny-cat.png">more</a>
                
