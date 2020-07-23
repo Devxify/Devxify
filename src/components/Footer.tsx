@@ -13,11 +13,11 @@ export const Footer: React.FC = () => {
     <footer css={[outer, SiteFooter]}>
       <div css={[inner, SiteFooterContent]}>
         <section className="copyright">
-          <Link to="/">&copy; Devxify</Link> {new Date().getFullYear()}{' '}
+          <Link to="/">&copy; Devxify</Link> {new Date().getFullYear()}{' |'}
           {config.footer && (
-            <Link to="/">
-              | {config.footer}
-            </Link>
+            <a href="mailto:hi&64;devxify.com">
+               {config.footer}
+            </a>
           )}
         </section>
         <SiteFooterNav>
