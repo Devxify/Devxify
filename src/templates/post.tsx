@@ -431,11 +431,11 @@ const PostFullImage = styled.figure`
   }
 
   @media (max-width: 800px) {
-    height: 400px;
+    height: auto;
   }
   @media (max-width: 500px) {
     margin-bottom: 4vw;
-    height: 350px;
+    height: auto;
   }
 `;
 
