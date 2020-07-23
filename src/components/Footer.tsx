@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
         <section className="copyright">
           <Link to="/">&copy; Devxify</Link> {new Date().getFullYear()}{' | '}
           {config.footer && (
-            <a href="mailto:hi&64;devxify.com">
+            <a href="mailto:hi&#64;devxify.com">
                {config.footer}
             </a>
           )}
