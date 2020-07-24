@@ -2,7 +2,7 @@
 layout: post
 title: 'Proven Ways To Optimize Your Design For Better Conversion'
 author: [Ankit]
-tags: ['Optimization']
+tags: ['Tech']
 image: img/ux.png
 date: '2020-07-20T23:46:37.121Z'
 draft: false
