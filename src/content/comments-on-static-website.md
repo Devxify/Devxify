@@ -2,7 +2,7 @@
 layout: post
 title: 'How To Add Comments On Static Site'
 author: [Ankit]
-tags: ['Tech']
+tags: ['WEB']
 image: img/static-comments.png
 date: '2020-07-23T23:46:37.121Z'
 draft: false

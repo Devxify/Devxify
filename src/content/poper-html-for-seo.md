@@ -2,7 +2,7 @@
 layout: post
 title: 'Proper Use Of HTML For SEO'
 author: [Ankit]
-tags: ['Tech']
+tags: ['WEB']
 image: img/html-seo.png
 date: '2020-07-17T23:46:37.121Z'
 draft: false

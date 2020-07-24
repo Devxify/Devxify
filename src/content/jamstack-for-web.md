@@ -2,7 +2,7 @@
 layout: post
 title: 'JAMstack- The New Web Stack'
 author: [Ankit]
-tags: ['Tech']
+tags: ['WEB']
 image: img/jamstack.png
 date: '2020-07-18T23:46:37.121Z'
 draft: false
