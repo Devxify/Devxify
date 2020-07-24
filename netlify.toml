@@ -2,3 +2,29 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin= "*"
+    
+[[redirects]]
+from = "/go/simple-analytics"
+to = "https://referral.simpleanalytics.com/ankit"
+status = 301
+force = false
+[[redirects]]
+from = "/go/fathom"
+to = "https://usefathom.com/ref/2GYBAO"
+status = 301
+force = false
+[[redirects]]
+from = "/go/uptime"
+to = "https://updown.io/r/NhiUz"
+status = 301
+force = false
+[[redirects]]
+from = "/go/bunnycdn"
+to = "https://bunnycdn.com/?ref=mptrdjmh3n"
+status = 301
+force = false
+[[redirects]]
+from = "/go/bmc"
+to = "https://buymeacoff.ee/?via=Devxify"
+status = 301
+force = false  
