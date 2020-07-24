@@ -6,12 +6,12 @@ tags: ['Web']
 image: img/jamstack.png
 date: '2020-07-18T23:46:37.121Z'
 draft: false
-excerpt: The web has been changing very rapidly. From old janky PHP to new serverless funtions, we have travelled a lot. If you are still unkown about JAMstack then this is for you.
+excerpt: The web has been changing very rapidly. From old janky PHP to new serverless functions, we have travelled a lot. If you are still unknown about JAMstack then this is for you.
 ---
 
-The world of technology is changing faster than one could ever imagine. In fact, the past is repeating itself. The revival of static sites is here but they have evolved with lots of superpowers. The full form of JAMstack is JavaScript, API, Markup stack. Just like [MEAN stack↗](https://www.ibm.com/cloud/learn/mean-stack-explained), MERN stack it is also a stack. Also, the whole site code lives on CDN so cheaper and faster hosting.
+The world of technology is changing faster than one could ever imagine. In fact, the past is repeating itself. The revival of static sites is here but they have evolved with lots of superpowers. The full form of JAMstack is JavaScript, API, Markdown stack. Just like [MEAN stack↗](https://www.ibm.com/cloud/learn/mean-stack-explained), MERN stack it is also a stack. Also, the whole site code lives on CDN so cheaper and faster hosting.
 
->JAMstack: Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.**- Mathias Biilmann, Netlify co-founder.**
+>JAMstack: Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. **- Mathias Biilmann, Netlify co-founder.**
 
 It is a new way of developing and serving web application with better performance, security, and scalability. JAMstack is not a tool, it is a composition of JavaScript, Markdown and API.
 
@@ -29,7 +29,7 @@ Just like maple syrup goes complimentary with pancakes, JAMstack also has some t
 
 Though they got developed individually but these are got combined together upon maturity and development. All these together contributed to similar vison of faster browsing, easy development control and reduced vulnerability.
 
-## **Why JAMstack Came Into Existence?**
+## **Why JAMstack Came into Existence?**
 
 Before JAMstack the web was pretty much dominant by the LAMP and MEAN stack. As the usage of mobile devices increase so did the demand for light weight web technologies. The people surfing the web wanted things to load in a breeze. Big brands like Google and Facebook heard it and started to develop something or the other.
 
@@ -82,7 +82,7 @@ JAMstack is a way different than traditional stack. JAMstack’s build and hosti
 | Whole application served via CDN       | Only static assets served via CDN  |
 | Content managed by GIT or Headless CMS | Content Managed by traditional CMS |
 
-## **Benefit Of Headless CMS Over Traditional CMS**
+## **Benefit of Headless CMS Over Traditional CMS**
 
 Since existence JAMstack site have always been running parallel to headless CMS. Unlike traditional CMS like WordPress where backend and frontend are tied into one single unit, in headless CMS the frontend and backend are completely different units. [Headless CMS↗](https://www.storyblok.com/tp/headless-cms-explained) only builds the page when changes are pushed and same is served until new changes are received whereas traditional CMS builds page on every request. This gives JAMstack’s headless CMS and performance edge over traditional CMS.
 
@@ -99,7 +99,7 @@ JAMstack has proved its effectiveness to developers and big brands by providing 
 
 JAMstack is still a new kid in the block. You can call it a work in progress thing too. Though its still not able to completely replace every other web development technology but we see a great future ahead. Make sure to keep your eyes on this and use wherever possible to develop performance-oriented web application.
 
-If you really likes the article the do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
+If you really liked the article then do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
 
 <p style="text-align:center">
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>

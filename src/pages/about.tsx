@@ -71,7 +71,7 @@ const About: React.FC = () => (
                 <p>
                   Hi Folks,
                   <br/>&nbsp;<br/>
-                  I'm Ankit, the cheif content writer (and owner) here at Devxify. Hope you are loving what I share, if not the do let me know on <a href="https://twitter.com/devxify" target="_blank">Twitter</a>. I am comitted to make a better web by helping awesome people like you make their websites faster, <a href="/web-accessibility-guide/">accessible</a> and more ethical. Sometimes I also love to contribute to the community. 
+                  I'm Ankit, the chief content writer (and owner) here at Devxify. Hope you are loving what I share, if not the do let me know on <a href="https://twitter.com/devxify" target="_blank">Twitter</a>. I am committed to make a better web by helping awesome people like you make their websites faster, <a href="/web-accessibility-guide/">accessible</a> and more ethical. Sometimes I also love to contribute to the community. 
                 </p>
                 <img src="https://devstorage.b-cdn.net/ankit-op.png" alt="Ankit Ghosh"/>
                 <p>

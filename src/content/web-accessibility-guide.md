@@ -6,13 +6,13 @@ tags: ['Accessibility']
 image: img/web-acc.png
 date: '2020-07-17T23:46:37.121Z'
 draft: false
-excerpt: In today's era everyone deserves to have access to the web. Being a developer one must know the guidelines to create easy accessible webpages.
+excerpt: In today's era everyone deserves to have access to the web. Being a developer, one must know the guidelines to create easily accessible webpages.
 ---
 
-Hey, I'm Ankit a lover of "Accessible & Fast Web". Have you ever thought that how blessed we are to be **normal** ?
+Hey, I'm Ankit a lover of "Accessible & Fast Web". Have you ever thought that how blessed we are to be **normal**?
 If not, then you better start. 
 
-As a part of the web developer community its our job to ensure that the web is accessible to all. The W3 even has a separate guidelines for  [web content accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%20and%20WCAG%202.1%20are%20stable%2C%20referenceable%20technical%20standards,A%2C%20AA%2C%20and%20AAA.). After all the web should be a better place to be even if the world isn't.
+As a part of the web developer community it's our job to ensure that the web is accessible to all. The W3 even has a separate guideline for  [web content accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%20and%20WCAG%202.1%20are%20stable%2C%20referenceable%20technical%20standards,A%2C%20AA%2C%20and%20AAA.). After all the web should be a better place to be even if the world isn't.
 
 ![Web Accessibility](https://dev-to-uploads.s3.amazonaws.com/i/8l5ycmba8i0kfgsf1t4w.png)
 
@@ -20,10 +20,10 @@ Today let's talk about the basics and let's see if I can help you be at-least se
 
 ## **Pages Must Have Proper Title**
 
-This the most basic tip you will ever read or listen regarding web accessibility. Having a proper title ensure that the specially-abled visitor gets a quick info of what the page is about. I request you to use terms like **page 1**, **blog**. It's horrible, instead use phrases like **Continuation of Abc article** or **Dev.to Blog, One stop for all developers**.
+This the most basic tip you will ever read or listen regarding web accessibility. Having a proper title ensure that the specially abled visitor gets a quick info of what the page is about. I request you to use terms like **page 1**, **blog**. It's horrible, instead use phrases like **Continuation of Abc article** or **Dev.to Blog, One stop for all developers**.
 
 ```html
-<!-- ❌ Homepage? Does that even has proper meaning? -->
+<!-- ❌ Homepage? Does that even have proper meaning? -->
 <title>Homepage</title>
                
 <!-- ✅ Descriptive -->
@@ -37,7 +37,7 @@ Though its easy to understand but still there are few things to remember when wr
 
 ## **Proper Labelling of Elements**
 
-Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labeling ensures that your visitor is given information in a way you want. Coming back to topic, labeling and giving role can be easily done using **aria-label**, **aria-labelledby**, **role**  and others.
+Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labelling ensures that your visitor is given information in a way you want. Coming back to topic, labelling and giving role can be easily done using **aria-label**, **aria-labelledby**, **role**  and others.
 
 ```html
 <!-- Example 1: The role tells that it's is a separator for section/page -->
@@ -82,7 +82,7 @@ Headings partly define the structure of the webpage. When you mess up with it th
         <h3>Heading 3</h3>
     <h2>Heading 2</h2> 
 
-<!-- ✅ Structured heading tags with hiearchy -->            
+<!-- ✅ Structured heading tags with hierarchy -->            
 <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <section>
@@ -100,23 +100,23 @@ Apart from sticking with px as a unit for your font-size, try dynamic units like
 
 ## **Elaborating Text In HTML**
 
-Sometime use shortforms of text which aren't known by everybody like BBC (British Broadcasting Channel? Confusion). For this we have abbreviation tags at our service.
+Sometime use short forms of text which aren't known by everybody like BBC (British Broadcasting Channel? Confusion). For this we have abbreviation tags at our service.
 
 ```html
 The <abbr title="British Broadcasting Corporation">BBC</abbr> is a great platform.
 ```
-## **Semantic Use Of HTML Tags**
+## **Semantic Use of HTML Tags**
 
 HTML has few tags which visually do the same thing but are actually different and very few developers know this.
 
-For example **&lt;strong>** and **&lt;b>** tag visually do the same thing which is making text bold. Semantically they are different, **&lt;strong>** tag is to bold the text and also mark this as important part of the text whereas **&lt;b>** tag is just a visual element to show text in bold format.
+For example, **&lt;strong>** and **&lt;b>** tag visually do the same thing which is making text bold. Semantically they are different, **&lt;strong>** tag is to bold the text and also mark this as important part of the text whereas **&lt;b>** tag is just a visual element to show text in bold format.
 
 ```html
 <strong> I am really important</strong>
 
 <b>I am just a bold text</b>
 ```
-This also means that you need to use the correct tags for the correct purpose. For example buttons must be enclosed between **&lt;button>** tag and not **&lt;a>** tag. Similarly on-page functions like onClick JavaScript functions should use **&lt;button>** and not **&lt;a>**.
+This also means that you need to use the correct tags for the correct purpose. For example, buttons must be enclosed between **&lt;button>** tag and not **&lt;a>** tag. Similarly, on-page functions like onClick JavaScript functions should use **&lt;button>** and not **&lt;a>**.
 
 ```html
 <!-- ✅ Using Button tag for buttons -->
@@ -136,7 +136,7 @@ This also means that you need to use the correct tags for the correct purpose. F
 
 Did you like what I wrote? Feel free to share your views in the comment section. Also if you wish to check how much accessible your website is then the best tools would be **Google LightHouse** and **Accessibe's Ace**. These tools will provide you with a comprehensive list of tests your webpage passed and one's failed.
 
-If you really likes the article the do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
+If you really liked the article then do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
 
 <p style="text-align:center">
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
