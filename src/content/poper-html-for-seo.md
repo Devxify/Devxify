@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Proper Use of HTML For SEO'
+title: 'Proper Use Of HTML For SEO'
 author: [Ankit]
-tags: ['SEO']
+tags: ['WEB']
 image: img/html-seo.png
 date: '2020-07-17T23:46:37.121Z'
 draft: false

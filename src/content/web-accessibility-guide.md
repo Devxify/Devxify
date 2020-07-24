@@ -2,7 +2,7 @@
 layout: post
 title: 'Web Accessibility Guide'
 author: [Ankit]
-tags: ['Accessibility']
+tags: ['WEB']
 image: img/web-acc.png
 date: '2020-07-17T23:46:37.121Z'
 draft: false

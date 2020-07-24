@@ -51,9 +51,11 @@ Though I didn't have any issues regarding privacy, UI or performance but had som
 
 Apart from this another issue was my past experience with Just-Comments, though I wish Hyvor Talk a great success but still startups do work on the swords edge and didn't want my comment system provider to vanish soon. Also, I would have preferred a pay-as-you go plan as I don't get huge traffic or comments on Devxify. Though it's completely my feeling, you are free to take a trial and share your experience in the comment system, I have seen some people who are pretty happy and satisfied with Hyvor Talk.
 
+Another important thing, Hyvor markets itself as privacy friendly option to Disqus but their website itself tracks user with Google analytics and Facebook analytics. Smells fishy?
+
 ## Why I Didn't Choose Commento
 
-[Commento](https://commento.io/) is a privacy focused commenting tool. They too have most of the features you wish from a comment system, but they require a minimum payment of 5$ per month which is on a higher side for small blogs and portfolio sites. Apart from this they have everything you wish for.
+[Commento](https://commento.io/) is a privacy focused commenting tool. They too have most of the features you wish from a comment system, but they require a 99$ payment per year, per site which is on a higher side for small blogs and portfolio sites. Apart from this they have everything you wish for.
 
 If your wallet allows then you will have access to automatic moderation tool, API access, shadow banning, single sign-on, sticky comments and much more. Even though I didn't went with them but they are indeed worth a try. Also, Commento has a self-host version too where you can skip paying them and directly host them, I didn't self-host it because I believe in static and [JAMstack↗](https://www.devxify.com/jamstack-for-web/) sites and avoid managing servers.
 
