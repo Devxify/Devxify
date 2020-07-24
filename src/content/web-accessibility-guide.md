@@ -12,7 +12,7 @@ excerpt: In today's era everyone deserves to have access to the web. Being a dev
 Hey, I'm Ankit a lover of "Accessible & Fast Web". Have you ever thought that how blessed we are to be **normal**?
 If not, then you better start. 
 
-As a part of the web developer community it's our job to ensure that the web is accessible to all. The W3 even has a separate guideline for  [web content accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%20and%20WCAG%202.1%20are%20stable%2C%20referenceable%20technical%20standards,A%2C%20AA%2C%20and%20AAA.). After all the web should be a better place to be even if the world isn't.
+As a part of the web developer community it's our job to ensure that the web is accessible to all. The W3 even has a separate guideline for  [web content accessibility↗](https://www.w3.org/WAI/standards-guidelines/wcag/#:~:text=WCAG%202.0%20and%20WCAG%202.1%20are%20stable%2C%20referenceable%20technical%20standards,A%2C%20AA%2C%20and%20AAA.). After all the web should be a better place to be even if the world isn't.
 
 ![Web Accessibility](https://dev-to-uploads.s3.amazonaws.com/i/8l5ycmba8i0kfgsf1t4w.png)
 
