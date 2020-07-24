@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How To Add Commenst On Static Site'
+title: 'How To Add Comments On Static Site'
 author: [Ankit]
 tags: ['WEB']
 image: img/static-comments.png

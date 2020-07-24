@@ -4,7 +4,7 @@ title: 'Proven Ways To Optimize Your Design For Better Conversion'
 author: [Ankit]
 tags: ['Optimization']
 image: img/ux.png
-date: '2020-07-17T23:46:37.121Z'
+date: '2020-07-20T23:46:37.121Z'
 draft: false
 excerpt: The web has evolved so is the competition. In present days you have few seconds to engage you visitor otherwise it's a lost business. Learn to ace it.
 ---
