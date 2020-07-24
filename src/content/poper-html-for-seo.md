@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Proper Use Of HTML For SEO'
+title: 'Proper Use of HTML For SEO'
 author: [Ankit]
 tags: ['SEO']
 image: img/html-seo.png
 date: '2020-07-17T23:46:37.121Z'
 draft: false
-excerpt: Every site owner wants to rank high on Google but they only focus on off page methods. On page SEO is equally important so is writing HTML properly.
+excerpt: Every site owner wants to rank high on Google, but they only focus on off page methods. On page SEO is equally important so is writing HTML properly.
 ---
 
 Now SEO is very important for website owners like us, we do a lot of hard work to create content and we do desire to have a good reachability. Over years Google has become the largest search engine and it contributes to large number of traffic to every site. SEO optimization is very important if we wish to rank well on searched terms on Google.
@@ -32,10 +32,10 @@ What’s a man without a name and what’s a webpage without a title? Title tag 
 <title>Homepage</title><title>Blog</title>
             
 <!-- ✅ Proper description using title -->
-<title>Devxify - Level Up Yor Web Skills</title><title>Web Developemt Guides and Articles by Devxify</title>
+<title>Devxify - Level Up Your Web Skills</title><title>Web Development Guides and Articles by Devxify</title>
 ```
 
-## **Use Of Rel Canonical & Icon**
+## **Use of Rel Canonical & Icon**
 
 These two might sound like small bits but they are very important. The rel canonical states the original link of the webpage. Here is an example, for example you webpage is accessible by multiple URLs like:
 
@@ -55,7 +55,7 @@ Similarly, rel=‘icon’ is also very important, it hold the destination of you
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 ```
 
-## **Proper Use Of Meta Tags**
+## **Proper Use of Meta Tags**
 
 I believe that meta tags are the most important tags when giving basic description of your site to any search engine. Meta tags contain wide array of data like site title, description, social image, social title, and social description.
 
@@ -63,13 +63,25 @@ Meta tags even make your site look the way you wish on web results and social me
 
 ```html
 <!-- Basic Meta Tags -->
-<meta name="title" content="Awesome Title Here"><meta name="description" content="Awesome Description Here"><!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.devxify.com"><meta property="og:logo" content="images/brand-logo.png"><meta property="og:type" content="website"><meta property="og:title" content="Awesome Title Here"><meta property="og:description" content="Awesome Description Here"><meta property="og:image" content="images/brand-social-image.png"><!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Awesome Title Here"><meta name="twitter:description" content="Awesome Description Here"><meta name="twitter:image" content="images/brand-social-image.png"><!-- Chrome Theme (URL Bar Color) -->
+<meta name="title" content="Awesome Title Here">
+<meta name="description" content="Awesome Description Here">
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://www.devxify.com">
+<meta property="og:logo" content="images/brand-logo.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Awesome Title Here">
+<meta property="og:description" content="Awesome Description Here">
+<meta property="og:image" content="images/brand-social-image.png">
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Awesome Title Here">
+<meta name="twitter:description" content="Awesome Description Here">
+<meta name="twitter:image" content="images/brand-social-image.png">
+<!-- Chrome Theme (URL Bar Color) -->
 <meta name="theme-color" content="#1a62f2" />
 ```
 
-## **Use Of Schema Markup**
+## **Use of Schema Markup**
 
 [Schema Markup↗](https://neilpatel.com/blog/get-started-using-schema/) has a similar job compared to meta tags but it is in much descriptive way. You can go as deep as you wish like sharing details about product, pricing and much more. I will share a very basic example, but you are free to visit the official Schema documentation for in-depth study and implementation. Below is an example of schema of our homepage.
 
@@ -77,7 +89,7 @@ Meta tags even make your site look the way you wish on web results and social me
 <script type='application/ld+json'>
     {
             "@context": "http://www.schema.org",
-            "@type": "WebSite",
+            "@type": "Website",
             "name": "Devxify",
             "alternateName": "Devxify.com",
             "description": "Helping you be a pro in web development, want to?",
@@ -92,16 +104,30 @@ Meta tags even make your site look the way you wish on web results and social me
 </script>
 ```
 
-## **Semantic Use Of Heading Tags**
+## **Semantic Use of Heading Tags**
 
 I have seen plenty of website owners mess up here. Most of the time search engine bots interpret even non-semantic HTML but you do not need to pay extra tax to write proper HTML? So why not do it in the correct way? Here is an example of wrong and correct uses of heading tags.
 
 ```html
 <!-- ❌ Page should have single H1 tag -->
-<h1>Heading 1</h1><h2>Heading 2</h2><h2>Heading 2</h2><h1>Heading 1</h1><!-- ❌ Heading should be structured -->
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h2>Heading 2</h2>
+<h1>Heading 1</h1>
+<!-- ❌ Heading should be structured -->
 <!-- Like H3 cannot be placed under H2 -->
-<h1>Heading 1</h1><h2>Heading 2</h2><h2>Heading 2</h2><h3>Heading 3</h3><h2>Heading 2</h2><!-- ✅ Structured heading tags with hiearchy -->            
-<h1>Heading 1</h1><h2>Heading 2</h2><section><h3>Heading 3</h3></section><h2>Heading 2</h2>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h2>Heading 2</h2>
+<!-- ✅ Structured heading tags with hierarchy  -->            
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+    <section>
+        <h3>Heading 3</h3>
+    </section>
+<h2>Heading 2</h2>
 ```
 
 ## **Use of Alt Attribute in Images**
@@ -188,9 +214,9 @@ This is a very common issue I found among bloggers, I found that they tend to us
 
 ## **Conclusion**
 
-These were some extremely basic guidelines one must follow for better HTML and SEO, though their are much more but these basics are important too. If you are already followwing these then koudos to you.
+These were some extremely basic guidelines one must follow for better HTML and SEO, though there are much more but these basics are important too. If you are already following these then kudos to you.
 
-If you really likes the article the do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
+If you really liked the article then do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
 
 <p style="text-align:center">
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
