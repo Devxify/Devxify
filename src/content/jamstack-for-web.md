@@ -25,7 +25,7 @@ API is used to do multiple tasks which makes them equal to full-fledged dynamic 
 
 Just like maple syrup goes complimentary with pancakes, JAMstack also has some technologies which compliments its existence.
 
-**SSG** (bridge between hard coded html and CMS) 
+**SSG** (bridge between hard coded html and CMS)
 **PWA**  (client-side caching, offline capability & installable)
 **Serverless**  (easy backend with use-as required model)
 
