@@ -47,7 +47,7 @@ Though comments are important to me, but I won't have them at the price of user 
 Though I didn't have any issues regarding privacy, UI or performance but had some different kind of issue. The first issue I faced is in the way they charge users. The thing I found that though they based in Sri Lanka but still collect nation specific taxes like GST & VAT. I even had a chat with its maker and after few mails he told me that he would be getting back to me soon after discussing with their payment provider (It's Paddle Payment Gateway if you wish to know). I later got a response and after all that I believe that their whole tax thing is managed by Paddle and I personally am a very big fan of their service.
 
 ![Hyvor Talk](img/hyvor-talk.png)
-<p style="text-align: center; font-size:1.25rem">Hyvor Tallk</p>
+<p style="text-align: center; font-size:1.25rem">Hyvor Talk</p>
 
 Apart from this another issue was my past experience with Just-Comments, though I wish Hyvor Talk a great success but still startups do work on the swords edge and didn't want my comment system provider to vanish soon. Also, I would have preferred a pay-as-you go plan as I don't get huge traffic or comments on Devxify. Though it's completely my feeling, you are free to take a trial and share your experience in the comment system, I have seen some people who are pretty happy and satisfied with Hyvor Talk.
 

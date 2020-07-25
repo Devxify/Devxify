@@ -82,13 +82,13 @@ const About: React.FC = () => (
                 </p>
                 <h2>Tech Behind Devxify</h2>
                 <p>
-                  <b>Netlify:</b> It's an awesome service for all web developers. At Devxify, <a href="https://www.netlify.com" target="_blank" rel="noreferrer">Netlify</a> is the main hosting platform where the site is built and deployed. 
+                  <a href="https://www.netlify.com" target="_blank" rel="noreferrer">Netlify:</a> It's an awesome service for all web developers. At Devxify, Netlify is the main hosting platform where the site is built and deployed. 
                   <br/>&nbsp;<br/>
-                  <b>BunnyCDN:</b> Though Netlify is awesome and fast but I still needed a CDN to make my sites faster. There was Cloudflare as an option for CDN but their free CDN wasn't upto the mark. <a href="https://bunnycdn.com/?ref=mptrdjmh3n" target="_blank" rel="sponsored">BunnyCDN</a> became the perferct performance partner helping static assests load quickly.
+                  <a href="https://bunnycdn.com/?ref=mptrdjmh3n" target="_blank" rel="sponsored">BunnyCDN:</a> Though Netlify is awesome and fast but I still needed a CDN to make my sites faster. There was Cloudflare as an option for CDN but their free CDN wasn't upto the mark. BunnyCDN became the perferct performance partner helping static assests load quickly.
                   <br/>&nbsp;<br/>
-                  <b>Cloudflare:</b> Though we don't use <a href="https://clodflare.com" target="_blank" rel="noreferrer">Cloudflare's</a> CDN but that doesn't mean that they suck. They have one of the best DNS out there and speed is surely at the core of Devxify.
+                  <a href="https://clodflare.com" target="_blank" rel="noreferrer">Cloudflare:</a> Though we don't use Cloudflare's CDN but that doesn't mean that they suck. They have one of the best DNS out there and speed is surely at the core of Devxify.
                   <br/>&nbsp;<br/>
-                  <b>Other Stuffs</b>
+                  <b>Some Other Stuffs</b>
                   <br/>
                   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">Canva:</a> Building awesome images for Devxify.
                   <br/>
@@ -109,7 +109,7 @@ const About: React.FC = () => (
                 <p>
                   As of now Devxify is a one man journey and I wish to add more people as I move ahead. Having all of you as awesome readers encourages me more to work on Devxify. Also if anyone of you would love to contribute to this journey then you are most welcome. Feel free to <a href="mailto:hi&amp;64;devxify.com">mail↗</a> me or just ping me on Twitter.
                   <br/>&nbsp;<br/>
-                  Will see you soon in the next awesome article I write and by the way the I run a <a href="https://sendfox.com/Devxify" target="_blank" rel="noreferrer">newsletter</a> too.
+                  Will see you soon in the next awesome article I write and by the way the I run a <a href="https://sendfox.com/Devxify" target="_blank" rel="noreferrer">newsletter↗</a> too.
                 </p>
               </div>
             </PostFullContent>
