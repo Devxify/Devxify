@@ -15,9 +15,9 @@ If you are a marketing guy and reading this, then make sure your business has a 
 
 ## **Clutter Free UI**
 
-No one likes a mess, be it physical or digital. It's always better and safe to keep your design and user interface as simple as possible unless are a design guru. Most people compare simple to boring white and black webpages but that's not the case. Look at [Google's homepage↗](https://uxdesign.cc/google-how-the-biggest-search-engines-homepage-has-changed-over-the-last-20-years-3b59db931a0d) elegant, simple and gets the job done. I believe the minimalistic approach is the best. Try to provide some free space and play with colors. Look at the video by Gary Simon on white space also known as negative space.
+No one likes a mess, be it physical or digital. It's always better and safe to keep your design and user interface as simple as possible unless are a design guru. Most people compare simple to boring white and black webpages but that's not the case. Look at [Google's homepage↗](https://uxdesign.cc/google-how-the-biggest-search-engines-homepage-has-changed-over-the-last-20-years-3b59db931a0d) elegant, simple and gets the job done. I believe the minimalistic approach is the best. Try to provide some free space and play with colors. This white space is also known as negative space.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FvQv5bwkU1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A0Ev_4zto4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Another thing to note, if you are animating vectors or images on your webpage then you better do that is a right way. Keep in mind that not all of your visitors will have a great device, some would be on low-end devices and I'm pretty sure you don't want to mess with that. Always test your user interface on the campiest device you could found. When I design something then I ensure to check it once on Internet Explorer and once on a cheap Android device. If your site works well on low-end devices, then it would work great in general mid-level devices.
 
