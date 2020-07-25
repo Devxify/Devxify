@@ -55,7 +55,7 @@ Another important thing, Hyvor markets itself as privacy friendly option to Disq
 
 ## Why I Didn't Choose Commento
 
-[Commento](https://commento.io/) is a privacy focused commenting tool. They too have most of the features you wish from a comment system, but they require a 99$ payment per year, per site which is on a higher side for small blogs and portfolio sites. Apart from this they have everything you wish for.
+[Commento↗](https://commento.io/) is a privacy focused commenting tool. They too have most of the features you wish from a comment system, but they require a 99$ payment per year, per site which is on a higher side for small blogs and portfolio sites. Apart from this they have everything you wish for.
 
 If your wallet allows then you will have access to automatic moderation tool, API access, shadow banning, single sign-on, sticky comments and much more. Even though I didn't went with them but they are indeed worth a try. Also, Commento has a self-host version too where you can skip paying them and directly host them, I didn't self-host it because I believe in static and [JAMstack↗](https://www.devxify.com/jamstack-for-web/) sites and avoid managing servers.
 
