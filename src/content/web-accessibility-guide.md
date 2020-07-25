@@ -37,7 +37,7 @@ Though its easy to understand but still there are few things to remember when wr
 
 ## **Proper Labelling of Elements**
 
-Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labelling ensures that your visitor is given information in a way you want. Coming back to topic, labelling and giving role can be easily done using `aria-label, `aria-labelledby`, `role`  and others.
+Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labelling ensures that your visitor is given information in a way you want. Coming back to topic, labelling and giving role can be easily done using `aria-label`, `aria-labelledby`, `role`  and others.
 
 ```html
 <!-- Example 1: The role tells that it's is a separator for section/page -->
