@@ -37,7 +37,7 @@ If you have followed me over past years, then you would surely know I'm a sucker
 ![Web Performance for Conversion](https://devstorage.b-cdn.net/webperf-conversion.svg)
 <p style="text-align: center; font-size:1.25rem">Credit: Cloudflare</p>
 
-Though I have seen lots of websites suck at it, but you shouldn't. If you wish to know in-depth ways to optimize your webpage then (have a look↗)[https://3perf.com/talks/web-perf-101] at this articlr. One of the easiest ways to make your webpage load faster is by optimizing images on your website and switching to a hosting provider with better infrastructure.
+Though I have seen lots of websites suck at it, but you shouldn't. If you wish to know in-depth ways to optimize your webpage then [have a look↗](https://3perf.com/talks/web-perf-101) at this article. One of the easiest ways to make your webpage load faster is by optimizing images on your website and switching to a hosting provider with better infrastructure.
 
 ## **Provide Point of Interaction**
 
