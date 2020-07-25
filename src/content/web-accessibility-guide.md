@@ -37,7 +37,7 @@ Though its easy to understand but still there are few things to remember when wr
 
 ## **Proper Labelling of Elements**
 
-Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labelling ensures that your visitor is given information in a way you want. Coming back to topic, labelling and giving role can be easily done using **aria-label**, **aria-labelledby**, **role**  and others.
+Not all of your visitors would be reading your text, some might be using tools like screen reader. As a developer you must ensure that all of the required elements are marked properly for screen readers. Labelling ensures that your visitor is given information in a way you want. Coming back to topic, labelling and giving role can be easily done using `aria-label, `aria-labelledby`, `role`  and others.
 
 ```html
 <!-- Example 1: The role tells that it's is a separator for section/page -->
@@ -109,14 +109,14 @@ The <abbr title="British Broadcasting Corporation">BBC</abbr> is a great platfor
 
 HTML has few tags which visually do the same thing but are actually different and very few developers know this.
 
-For example, **&lt;strong>** and **&lt;b>** tag visually do the same thing which is making text bold. Semantically they are different, **&lt;strong>** tag is to bold the text and also mark this as important part of the text whereas **&lt;b>** tag is just a visual element to show text in bold format.
+For example, `<strong>` and `<b>` tag visually do the same thing which is making text bold. Semantically they are different, `<strong>` tag is to bold the text and also mark this as important part of the text whereas `<b>` tag is just a visual element to show text in bold format.
 
 ```html
 <strong> I am really important</strong>
 
 <b>I am just a bold text</b>
 ```
-This also means that you need to use the correct tags for the correct purpose. For example, buttons must be enclosed between **&lt;button>** tag and not **&lt;a>** tag. Similarly, on-page functions like onClick JavaScript functions should use **&lt;button>** and not **&lt;a>**.
+This also means that you need to use the correct tags for the correct purpose. For example, buttons must be enclosed between `<button>` tag and not `<a>` tag. Similarly, on-page functions like onClick JavaScript functions should use `<button>` and not `<a>`.
 
 ```html
 <!-- ✅ Using Button tag for buttons -->
