@@ -71,11 +71,11 @@ const About: React.FC = () => (
                 <p>
                   Hi Folks,
                   <br/>&nbsp;<br/>
-                  I'm Ankit, the chief content writer (and owner) here at Devxify. Hope you are loving what I share, if not the do let me know on <a href="https://twitter.com/devxify" target="_blank">Twitter</a>. I am committed to make a better web by helping awesome people like you make their websites faster, <a href="/web-accessibility-guide/">accessible</a> and more ethical. Sometimes I also love to contribute to the community. 
+                  I'm Ankit, the chief content writer (and owner) here at Devxify. Hope you are loving what I share, if not the do let me know on <a href="https://twitter.com/devxify" target="_blank" rel="noreferrer">Twitter↗</a>. I am committed to make a better web by helping awesome people like you make their websites faster, <a href="/web-accessibility-guide/">accessible↗</a> and more ethical. Sometimes I also love to contribute to the community. 
                 </p>
                 <img src="https://devstorage.b-cdn.net/ankit-op.png" alt="Ankit Ghosh"/>
                 <p>
-                  Now all that's present, what about my past? So I started learning about the web in 2016, I was a noob then but fantasized to make supercool websites. I did everything to make my sites faster and look prettier (I still suck at design). This path took me to <a href="https://wordpress.org" target="_blank" rel="noreferrer">WordPress</a>, building websites with little to no knowledge about code looked great then. Soon I realized that this bulky CMS was now a modern day legacy software.
+                  Now all that's present, what about my past? So I started learning about the web in 2016, I was a noob then but fantasized to make supercool websites. I did everything to make my sites faster and look prettier (I still suck at design). This path took me to <a href="https://wordpress.org" target="_blank" rel="noreferrer">WordPress↗</a>, building websites with little to no knowledge about code looked great then. Soon I realized that this bulky CMS was now a modern day legacy software.
                 </p>
                 <p>
                   Then came the new wave of JAMstack, pushed by Netlify. I loved the idea of building static sites that could be balzing fast and also I could control each bit of it as I was now building static HTML sites. It's then when my first website got acquired. Moving on this path I learned that I need to jump to a SSG because managing content was becoming tough. Here we are at Devxify, a site built with Gatsby in its core.
