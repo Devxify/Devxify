@@ -68,7 +68,7 @@ Plausible is a fairly new to the market so I can't expect much of unique and adv
 
 Though Plausible is not the tool with the most number of features but it does have one major benefit over others, that's pricing. It's the cheapest among its competitors, for reference it would cost you 12$per month or 96$ annually for 100k pageviews and unlimited sites. The magical part is that, they have a smaller plan too. So if you have a personal blog or portfolio with few thousand views then you need not spend 100 dollars on analytics. Their smallest plan with 10k pageviews cost only 6$ per month or 48$ annually and that's what help them reach a larger number of small sites. It's always good to have players like these as not all site owners are able to pay larger sum of amount. I do think that others must also come up with smaller plans. 
 
-### Which One Is For You?
+## Which One Is For You?
 
 Now this is the question most of you might have. I know and understand this, and I think that I can help you choose one based upon your use case and other factors. Check the below list for all conditions and find your perfect partner.
 
@@ -81,7 +81,7 @@ Now this is the question most of you might have. I know and understand this, and
 
 Now that you have a good idea of all the three, which one are you going with? Also if you still have doubts the the comment section is open for you and I'm pretty active there. Another note worthy thing to mention is that Simple Analytics let's me gift you a **free month** of their service and I'm an existing user, simply click on <a rel="sponsored" href="https://www.devxify.com/go/simple-analytics">this link↗</a>. If the founders of Fathom and Plausible wish to distribute a coupon or extended trial, then do drop a text and I'll add it here.
 
-> **Note:** I didn't talk about server side analytics because they limit users to a particular infrastructure, I believe you should be free to use whatever you want and not what the provider wants.
+> **Note:** I didn't talked about server side analytics because they limit users to a particular infrastructure, I believe you should be free to use whatever you want and not what the provider wants.
 
 If you really liked the article then do share it with your friends and colleagues. If you find a error or just want to do addition to this post then feel free to drop a message on [Twitter↗](https://twitter.com/devxify), also do follow us for quick updates. For weekly updates on web performance and optimization do subscribe to our newsletter. If you wish to support my work (which I do here for free) then you can do so by [buying me a coffee↗](https://www.buymeacoffee.com/Devxify) or two, I'll be thankful.
 

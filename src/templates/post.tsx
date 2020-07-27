@@ -129,11 +129,11 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         <meta property="og:type" content="article" />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
-        <meta property="og:url" content={config.siteUrl + props.pathContext.slug} />
+        <meta property="og:url" content={props.pathContext.slug} />
         {post.frontmatter.image?.childImageSharp && (
           <meta
             property="og:image"
-            content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`}
+            content={`${post.frontmatter.image.childImageSharp.fluid.src}`}
           />
         )}
         <meta property="article:published_time" content={post.frontmatter.date} />
@@ -152,7 +152,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
         {post.frontmatter.image?.childImageSharp && (
           <meta
             name="twitter:image"
-            content={`${config.siteUrl}${post.frontmatter.image.childImageSharp.fluid.src}`}
+            content={`${post.frontmatter.image.childImageSharp.fluid.src}`}
           />
         )}
         <meta name="twitter:label1" content="Written by" />
