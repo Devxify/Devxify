@@ -123,6 +123,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
       <Helmet>
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
+        <meta name="monetization" content={config.monetization} />
 
         <meta name="description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:site_name" content={config.title} />
