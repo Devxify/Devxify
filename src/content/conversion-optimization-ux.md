@@ -55,7 +55,7 @@ A website without an appealing text is like a pizza with no cheese. Boring and u
 ![Basecamp Landing Page](img/basecamp.jpg)
 <p style="text-align: center; font-size:1.25rem">Basecamp Landing Page 2020</p>
 
-As far as I have seen, this is the most neglected part in most of the digital business. Most of the people don't even know the meaning of it. Don't be that guy please. Copywriting is the best way to convey the message your product/service is trying to pass. This will affect your conversion rate significantly.  If you wish to have a helping hand then we are just a [mail↗](mailto:hi&64;devxify.com) away.
+As far as I have seen, this is the most neglected part in most of the digital business. Most of the people don't even know the meaning of it. Don't be that guy please. Copywriting is the best way to convey the message your product/service is trying to pass. This will affect your conversion rate significantly.  If you wish to have a helping hand then we are just a <a href="javascript:location='mailto:\u0068\u0069\u0040\u0064\u0065\u0076\u0078\u0069\u0066\u0079\u002e\u0063\u006f\u006d';void 0">mail↗</a> away.
 
 ## **Wise Use of Colors**
 
