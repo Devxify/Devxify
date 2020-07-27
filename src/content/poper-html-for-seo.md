@@ -29,10 +29,12 @@ What’s a man without a name and what’s a webpage without a title? Title tag 
 
 ```html
 <!-- ❌ Poor description using title -->
-<title>Homepage</title><title>Blog</title>
+<title>Homepage</title>
+<title>Blog</title>
             
 <!-- ✅ Proper description using title -->
-<title>Devxify - Level Up Your Web Skills</title><title>Web Development Guides and Articles by Devxify</title>
+<title>Devxify - Level Up Your Web Skills</title>
+<title>Web Development Guides and Articles by Devxify</title>
 ```
 
 ## **Use of Rel Canonical & Icon**
