@@ -11,7 +11,7 @@ excerpt: Privacy friendly analytics are new hot products. See the comparison of 
 
 In this article we are going to compare 3 privacy friendly analytics, namely Simple Analytics, Fathom and Plausible, so let's begin the journey.
 
-In recent years we have seen a drastic rise in awareness for user privacy. Also the new law like [GDPR↗](https://gdpr-info.eu) have forced businesses accross the globe to take privacy in a serious way. It was something we all needed; don't you hate seeing a repetitive ad about the product you searched for?
+In recent years we have seen a drastic rise in awareness for user privacy. Also the new law like [GDPR↗](https://gdpr-info.eu) have forced businesses across the globe to take privacy in a serious way. It was something we all needed; don't you hate seeing a repetitive ad about the product you searched for?
 
 There were (and still) are some excessive tracking and privacy violation on the web. Companies like G##gle and Faceb##k had created their whole business model over selling and mishandling of user data. Analytics played a key role there. Most part of user tracking and tracing were done by analytics tools owned by large giants like them. With the increase in awareness there came demand of privacy first products. One such domain was privacy friendly web analytics. Privacy has become one key decision making point in choosing analytics for a website.
 
