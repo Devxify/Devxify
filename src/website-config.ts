@@ -50,6 +50,7 @@ export interface WebsiteConfig {
    * Appears alongside the footer, after the credits
    */
   footer?: string;
+  monetization?: string;
 }
 
 const config: WebsiteConfig = {
@@ -68,6 +69,7 @@ const config: WebsiteConfig = {
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',*/
   footer: 'Want to talk? Mail us.',
+  monetization: '$ilp.uphold.com/drf7LaePnBrA',
 };
 
 export default config;
