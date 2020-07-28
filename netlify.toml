@@ -31,3 +31,8 @@ from = "/go/bmc"
 to = "https://buymeacoff.ee/?via=Devxify"
 status = 301
 force = false  
+[[redirects]]
+from = "/go/brave"
+to = "https://brave.com/dev141"
+status = 301
+force = false 
