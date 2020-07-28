@@ -13,6 +13,8 @@ The world of technology is changing faster than one could ever imagine. In fact,
 
 >JAMstack: Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. **- Mathias Biilmann, Netlify co-founder.**
 
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+
 It is a new way of developing and serving web application with better performance, security, and scalability. JAMstack is not a tool, it is a composition of JavaScript, Markdown and API.
 
 JavaScript is used to build the whole site and manage and respond to requests.

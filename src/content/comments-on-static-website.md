@@ -20,6 +20,8 @@ Are you travelling in the new bandwagon of static JAMstack website? If yes, the 
 
 So after all these I too was looking for a comment system for my site, earlier I did had comments on my website provided by Just-Comments but they planned to shut down their service due to low revenue & traction and I was now left with no comment system. Also I didn't want to miss the awesome but occasional constructive feedback some of you guys leave in the comment section.
 
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+
 Now I had a tough decision to choose a comment system among different offering in the market, to do this I made a list of all viable and well-known provider. My list compromised of :
 
 1. Disqus

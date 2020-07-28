@@ -13,6 +13,8 @@ The web has evolved so is the competition. In present days you have few seconds 
 
 If you are a marketing guy and reading this, then make sure your business has a great website as that will work 7 days a week and 365 days a year for you and won't even take salary for that. Rather than hiring multiple sales executives, it's better to invest on a great [web experience↗](https://www.letsnurture.com/blog/10-reasons-why-website-user-experience-is-important.html) first. Make sure you correctly identify your target audience and design accordingly, for example don't create a webpage with super small font size if your target audience are senior citizen. Small font size might look great to teenager and young adults but it's a pain for the elders. These small things will go a long way in building an subconscious relation between your brand and customers. Now that you know all these, let's see some great ways to optimize your site for user satisfaction.
 
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+
 ## **Clutter Free UI**
 
 No one likes a mess, be it physical or digital. It's always better and safe to keep your design and user interface as simple as possible unless are a design guru. Most people compare simple to boring white and black webpages but that's not the case. Look at [Google's homepage↗](https://uxdesign.cc/google-how-the-biggest-search-engines-homepage-has-changed-over-the-last-20-years-3b59db931a0d) elegant, simple and gets the job done. I believe the minimalistic approach is the best. Try to provide some free space and play with colors. This white space is also known as negative space.
