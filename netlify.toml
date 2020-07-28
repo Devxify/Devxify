@@ -36,3 +36,13 @@ from = "/go/brave"
 to = "https://brave.com/dev141"
 status = 301
 force = false 
+[[redirects]]
+from = "/go/sponsor"
+to = "https://brave.com/dev141"
+status = 302
+force = false 
+[[redirects]]
+from = "/go/sponsor-alt"
+to = "https://brave.com/dev141"
+status = 302
+force = false 

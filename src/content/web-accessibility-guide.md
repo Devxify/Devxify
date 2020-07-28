@@ -18,6 +18,8 @@ As a part of the web developer community it's our job to ensure that the web is 
 
 Today let's talk about the basics and let's see if I can help you be at-least semi-compliant with WCAG 2.1. In this article I would be guiding you through the steps to make you webpage accessible with devices like screen reader. Let's begin.
 
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+
 ## **Pages Must Have Proper Title**
 
 This the most basic tip you will ever read or listen regarding web accessibility. Having a proper title ensure that the specially abled visitor gets a quick info of what the page is about. I request you to use terms like **page 1**, **blog**. It's horrible, instead use phrases like **Continuation of Abc article** or **Dev.to Blog, One stop for all developers**.
