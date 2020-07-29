@@ -22,7 +22,7 @@ JavaScript is used to build the whole site and manage and respond to requests.
 
 API is used to do multiple tasks which makes them equal to full-fledged dynamic sites. These API can be used to perform dynamic tasks like search, form-handling, and others similar tasks.
 
-![JAMstack Diagram](https://devstorage.b-cdn.net/jamstack-diagram.svg)
+![JAMstack Diagram](img/jamstack-diagram.svg)
 
 [Markdown↗](https://www.markdownguide.org/) is an upgraded Markup language just like HTML. This is widely used by static site generators and headless CMS for content on site.
 
