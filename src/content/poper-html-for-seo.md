@@ -4,7 +4,7 @@ title: 'Proper Use Of HTML For SEO'
 author: [Ankit]
 tags: ['WEB']
 image: img/html-seo.png
-date: '2020-07-20T23:46:37.121Z'
+date: '2020-07-20T13:46:37.121Z'
 draft: false
 excerpt: Every site owner wants to rank high on Google, but they only focus on off page methods. On page SEO is equally important so is writing HTML properly.
 ---
