@@ -12,7 +12,7 @@ excerpt: Every site owner wants to rank high on Google, but they only focus on o
 Now SEO is very important for website owners like us, we do a lot of hard work to create content and we do desire to have a good reachability. Over years Google has become the largest search engine and it contributes to large number of traffic to every site. SEO optimization is very important if we wish to rank well on searched terms on Google.
 
 <a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor.png)</a>
-<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
+<p style="text-align: center; font-size:1.25rem"><strong>Sponsored Ad on Devxify</strong></p>
 
 Personally, I do not like inorganic ways like link building to improve my SEO score, but I do all I can in an organic way. Well that includes writing your HTML is best possible way. Always remember, this is secondary, writing high quality content is primary.
 
