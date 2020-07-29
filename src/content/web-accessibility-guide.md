@@ -18,7 +18,8 @@ As a part of the web developer community it's our job to ensure that the web is 
 
 Today let's talk about the basics and let's see if I can help you be at-least semi-compliant with WCAG 2.1. In this article I would be guiding you through the steps to make you webpage accessible with devices like screen reader. Let's begin.
 
-<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor.png)</a>
+<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
 
 ## **Pages Must Have Proper Title**
 
@@ -144,5 +145,11 @@ If you really liked the article then do share it with your friends and colleague
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
 </p>
 <!--Comments System-->
-<script src="https://utteranc.es/client.js" data-repo="Devxify/devxify-comment" data-issue-term="pathname" data-theme="github-light" crossorigin="anonymous" async>
+<script src="https://utteranc.es/client.js"
+        data-repo="Devxify/Devxify-Talk"
+        data-issue-term="title"
+        data-label="comment"
+        data-theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
