@@ -14,7 +14,7 @@ The web has evolved so is the competition. In present days you have few seconds 
 If you are a marketing guy and reading this, then make sure your business has a great website as that will work 7 days a week and 365 days a year for you and won't even take salary for that. Rather than hiring multiple sales executives, it's better to invest on a great [web experience↗](https://www.letsnurture.com/blog/10-reasons-why-website-user-experience-is-important.html) first. Make sure you correctly identify your target audience and design accordingly, for example don't create a webpage with super small font size if your target audience are senior citizen. Small font size might look great to teenager and young adults but it's a pain for the elders. These small things will go a long way in building an subconscious relation between your brand and customers. Now that you know all these, let's see some great ways to optimize your site for user satisfaction.
 
 <a href="https://www.devxify.com/go/sponsor-alt" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-alt.png)</a>
-<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
+<p style="text-align: center; font-size:1.25rem"><strong>Sponsored Ad on Devxify</strong></p>
 
 ## **Clutter Free UI**
 

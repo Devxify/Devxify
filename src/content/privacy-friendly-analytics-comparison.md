@@ -16,7 +16,7 @@ In recent years we have seen a drastic rise in awareness for user privacy. Also 
 There were (and still) are some excessive tracking and privacy violation on the web. Companies like G##gle and Faceb##k had created their whole business model over selling and mishandling of user data. Analytics played a key role there. Most part of user tracking and tracing were done by analytics tools owned by large giants like them. With the increase in awareness there came demand of privacy first products. One such domain was privacy friendly web analytics. Privacy has become one key decision making point in choosing analytics for a website.
 
 <a href="https://www.devxify.com/go/sponsor-alt" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-alt.png)</a>
-<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
+<p style="text-align: center; font-size:1.25rem"><strong>Sponsored Ad on Devxify</strong></p>
 
 Another great reason to use them is that you get free performance boost. GA makes your site lag with tons of JavaScript, choosing one of them ensures that your analytics doesn't make your site slow.
 
