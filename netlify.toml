@@ -4,7 +4,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin= "*"https://www.devxify.com/blog/web-accessibility-guide.html
+    Access-Control-Allow-Origin= "*"
     
 [[redirects]]
 from = "https://www.devxify.com/blog/web-accessibility-guide.html"
