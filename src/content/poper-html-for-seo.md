@@ -4,14 +4,15 @@ title: 'Proper Use Of HTML For SEO'
 author: [Ankit]
 tags: ['WEB']
 image: img/html-seo.png
-date: '2020-07-17T23:46:37.121Z'
+date: '2020-07-20T23:46:37.121Z'
 draft: false
 excerpt: Every site owner wants to rank high on Google, but they only focus on off page methods. On page SEO is equally important so is writing HTML properly.
 ---
 
 Now SEO is very important for website owners like us, we do a lot of hard work to create content and we do desire to have a good reachability. Over years Google has become the largest search engine and it contributes to large number of traffic to every site. SEO optimization is very important if we wish to rank well on searched terms on Google.
 
-<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor.png)</a>
+<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
 
 Personally, I do not like inorganic ways like link building to improve my SEO score, but I do all I can in an organic way. Well that includes writing your HTML is best possible way. Always remember, this is secondary, writing high quality content is primary.
 
@@ -226,5 +227,11 @@ If you really liked the article then do share it with your friends and colleague
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
 </p>
 <!--Comments System-->
-<script src="https://utteranc.es/client.js" data-repo="Devxify/devxify-comment" data-issue-term="pathname" data-theme="github-light" crossorigin="anonymous" async>
+<script src="https://utteranc.es/client.js"
+        data-repo="Devxify/Devxify-Talk"
+        data-issue-term="title"
+        data-label="comment"
+        data-theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>

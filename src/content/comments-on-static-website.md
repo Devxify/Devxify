@@ -20,7 +20,8 @@ Are you travelling in the new bandwagon of static JAMstack website? If yes, the 
 
 So after all these I too was looking for a comment system for my site, earlier I did had comments on my website provided by Just-Comments but they planned to shut down their service due to low revenue & traction and I was now left with no comment system. Also I didn't want to miss the awesome but occasional constructive feedback some of you guys leave in the comment section.
 
-<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor.png)</a>
+<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
 
 Now I had a tough decision to choose a comment system among different offering in the market, to do this I made a list of all viable and well-known provider. My list compromised of :
 
@@ -80,7 +81,7 @@ Though I have been using them for a while, but they still have some cons, the bi
 <!--Here's the sample code for Utteranc.es-->
 <script src="https://utteranc.es/client.js"
         data-repo="owner/repo-name"
-        data-issue-term="pathname"
+        data-issue-term="title"
         data-theme="github-light"
         crossorigin="anonymous"
         async>
@@ -101,5 +102,11 @@ If you really liked the article then do share it with your friends and colleague
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
 </p>
 <!--Comments System-->
-<script src="https://utteranc.es/client.js" data-repo="Devxify/devxify-comment" data-issue-term="pathname" data-theme="github-light" crossorigin="anonymous" async>
+<script src="https://utteranc.es/client.js"
+        data-repo="Devxify/Devxify-Talk"
+        data-issue-term="title"
+        data-label="comment"
+        data-theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>

@@ -15,7 +15,8 @@ In recent years we have seen a drastic rise in awareness for user privacy. Also 
 
 There were (and still) are some excessive tracking and privacy violation on the web. Companies like G##gle and Faceb##k had created their whole business model over selling and mishandling of user data. Analytics played a key role there. Most part of user tracking and tracing were done by analytics tools owned by large giants like them. With the increase in awareness there came demand of privacy first products. One such domain was privacy friendly web analytics. Privacy has become one key decision making point in choosing analytics for a website.
 
-<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-1.png)</a>
+<a href="https://www.devxify.com/go/sponsor-alt" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor-alt.png)</a>
+<p style="text-align: center; font-size:1.25rem">**Sponsored Ad on Devxify**</p>
 
 Another great reason to use them is that you get free performance boost. GA makes your site lag with tons of JavaScript, choosing one of them ensures that your analytics doesn't make your site slow.
 
@@ -91,5 +92,11 @@ If you really liked the article then do share it with your friends and colleague
 <a href="https://www.buymeacoffee.com/Devxify" rel="noreferrer nofollow" target="_blank"><img alt="buy me a coffee" src="https://devstorage.b-cdn.net/bmc.svg"></a>
 </p>
 <!--Comments System-->
-<script src="https://utteranc.es/client.js" data-repo="Devxify/devxify-comment" data-issue-term="pathname" data-theme="github-light" crossorigin="anonymous" async>
+<script src="https://utteranc.es/client.js"
+        data-repo="Devxify/Devxify-Talk"
+        data-issue-term="title"
+        data-label="comment"
+        data-theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
