@@ -7,7 +7,7 @@
     Access-Control-Allow-Origin= "*"
     
 [[redirects]]
-from = "https://www.devxify.com/blog/web-accessibility-guide.html"
+from = "/blog/web-accessibility-guide.html"
 to = "https://www.devxify.com/web-accessibility-guide/"
 status = 301
 force = false    
