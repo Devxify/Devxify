@@ -4,8 +4,13 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin= "*"
+    Access-Control-Allow-Origin= "*"https://www.devxify.com/blog/web-accessibility-guide.html
     
+[[redirects]]
+from = "https://www.devxify.com/blog/web-accessibility-guide.html"
+to = "https://www.devxify.com/web-accessibility-guide/"
+status = 301
+force = false    
 [[redirects]]
 from = "/go/simple-analytics"
 to = "https://referral.simpleanalytics.com/ankit"
