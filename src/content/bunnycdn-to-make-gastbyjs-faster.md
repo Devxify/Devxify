@@ -6,7 +6,7 @@ tags: ['WEB']
 image: img/bunnycdn-gatsby.png
 date: '2020-08-05T10:46:37.121Z'
 draft: false
-excerpt: Gastby is fast and great. Though I can't make it greater but surely can make it faster, want to see how? Join me and see how I use BunnyCDN to make Gatsby super fast
+excerpt: Gastby is fast and great. Though I can't make it greater but surely can make it faster, want to see how? Join me and see how I use BunnyCDN to make Gatsby super fast.
 ---
 
 In 2020 I moved Devxify to Gatsby. As most of people do, I too used Netlify for it. Though Netlify worked fine but as I was on free tier so the performance of CDN wasn't great for me and the paid plan started from 19USD per month, too high for a single project. 

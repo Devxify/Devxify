@@ -1,5 +1,5 @@
 [build]
-  command = "gatsby build"
+  command = "gatsby build --prefix-paths"
   
 [[headers]]
   for = "/*"
