@@ -13,6 +13,9 @@ In 2020 I moved Devxify to Gatsby. As most of people do, I too used Netlify for 
 
 I looked for ways to improve the infrastructure. The best option which I found was bringing my own CDN into the game. I had been using BunnyCDN from it's early days so I knew the team, they are great and specially the founder Dejan is very helpful and committed to add new updates. Also with BunnyCDN I get the guarantee that my site is being served by comparatively expensive zone like Asia and Oceania (whenever required), I can't assure that in Netlify or Cloudflare. Now the intro is done and let's begin with the context.
 
+<a href="https://www.devxify.com/go/sponsor" rel="nofollow sponsored" target="_blank">![Ads on Devxify](img/sponsor.png)</a>
+<p style="text-align: center; font-size:1.25rem"><strong>Sponsored Ad on Devxify</strong></p>
+
 So if you are too willing to switch to <a href="https://www.devxify.com/go/bunnycdn" target="_blank" rel="sponsored">BunnyCDN↗</a> then just to be clear you can't switch completely, you still will need to use Netlify as you backed build engine. Let's start with all the steps you need to follow.
 
 ## 1. Configure BunnyCDN
