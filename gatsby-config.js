@@ -7,11 +7,10 @@ module.exports = {
     description: 'A blog for developers, makers and web enthusiast. Great?',
     siteUrl: 'https://www.devxify.com', // full path to blog - no ending slash
   },
-  assetPrefix: `https://www.devxify.com`,
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
-  assetPrefix: `https://cdn.devxify.com`,
+  assetPrefix: `https://www.devxify.com`,
   plugins: [
     `gatsby-plugin-preact`,
     {
