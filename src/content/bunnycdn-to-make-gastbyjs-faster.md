@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Using BunnyCDN To Make Gatsby faster'
+title: 'Using BunnyCDN To Make Gatsby Faster'
 author: [Ankit]
 tags: ['WEB']
 image: img/bunnycdn-gatsby.png
