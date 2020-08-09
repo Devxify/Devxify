@@ -56,7 +56,7 @@
     "preact": "^10.4.6",
     "preact-render-to-string": "^5.1.10",
     "prism-themes": "1.4.0",
-    "prismjs": "1.20.0",
+    "prismjs": "1.21.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-emotion": "10.0.0",
