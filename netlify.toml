@@ -10,7 +10,17 @@
 from = "/blog/web-accessibility-guide.html"
 to = "https://www.devxify.com/web-accessibility-guide/"
 status = 301
-force = false    
+force = false
+[[redirects]]
+from = "/go/chemicloud"
+to = "https://lab.chemicloud.com/aff.php?aff=918"
+status = 301
+force = false 
+[[redirects]]
+from = "/go/sg"
+to = "https://www.siteground.com/index.htm?afcode=98c4e3be8e047a16b89b03b16b90fa53"
+status = 301
+force = false 
 [[redirects]]
 from = "/go/simple-analytics"
 to = "https://referral.simpleanalytics.com/ankit"
