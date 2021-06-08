@@ -51,7 +51,7 @@
     "gatsby-transformer-yaml": "2.4.9",
     "lodash": "4.17.19",
     "normalize.css": "8.0.1",
-    "polished": "3.6.5",
+    "polished": "3.7.2",
     "postcss-color-function": "4.1.0",
     "preact": "^10.4.6",
     "preact-render-to-string": "^5.1.10",
