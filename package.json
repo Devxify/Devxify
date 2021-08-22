@@ -62,7 +62,7 @@
     "react-emotion": "10.0.0",
     "react-helmet": "6.1.0",
     "rehype-react": "6.0.0",
-    "snyk": "^1.362.1"
+    "snyk": "^1.518.0"
   },
   "devDependencies": {
     "@types/lodash": "4.14.155",
